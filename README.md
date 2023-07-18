@@ -1,2 +1,3 @@
-# AI-image
-Converting images using AI
+# Image Styling with Python
+
+This repository contains Python scripts for styling images using neural style transfer.
